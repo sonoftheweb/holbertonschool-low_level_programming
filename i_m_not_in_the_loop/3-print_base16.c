@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "my_functions.h"
 
+/*Function to print all base 16 numbers from 0 to F. This one had me going crazy!*/
 void print_base16(void){
 
 	int i;
