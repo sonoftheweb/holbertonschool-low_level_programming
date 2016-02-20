@@ -2,6 +2,7 @@
 
 int main(void)
 {
-  print_alphabet();
+  print_combination_2();
+  printf("\n");
   return (0);
 }
